@@ -10,6 +10,10 @@ output = {
   "db_username": {
     "sensitive": False,
     "value": "admin2"
+  },
+  "db_host": {
+    "sensitive": False,
+    "value": "mydbhostname"
   }
 }
 
